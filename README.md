@@ -4,10 +4,7 @@ Une interface web de caisse enregistreuse moderne, intuitive et conforme à la n
 📸 Aperçu
 Interface principale :
 
-Clavier numérique :
-
-Panier en cours :
-
+Note : Les images interface.png, keypad.png, et panier.png sont situées dans le dossier img/ du répertoire du projet (desktop/caisse_enregistreuse/img/). Assurez-vous que ces fichiers sont présents pour un affichage correct dans ce README.
 
 🚀 Fonctionnalités
 
@@ -20,13 +17,14 @@ Panier en cours :
 
 
 🗂 Structure du projet
-CaisseEnregistreuse/├── index.html # Fichier principal├── img/│ ├── interface.png # Capture d'écran de l'interface│ ├── keypad.png # Capture du clavier│ └── panier.png # Capture du panier└── README.md # Ce fichier
+desktop/caisse_enregistreuse/├── index.html # Fichier principal├── img/│ ├── interface.png # Capture d'écran de l'interface│ ├── keypad.png # Capture du clavier│ └── panier.png # Capture du panier└── README.md # Ce fichier
 
 💡 Utilisation
 
-Téléchargez ou clonez ce dépôt :git clone https://github.com/VictorBongard/CaisseEnregistreuse.git
+Téléchargez ou clonez ce dépôt dans desktop/caisse_enregistreuse/ :git clone https://github.com/VictorBongard/CaisseEnregistreuse.git desktop/caisse_enregistreuse
 
 
+Assurez-vous que les images interface.png, keypad.png, et panier.png sont bien placées dans desktop/caisse_enregistreuse/img/.
 Ouvrez le fichier index.html dans votre navigateur préféré.
 Cliquez sur les boutons produit pour simuler l’ajout au panier.
 
