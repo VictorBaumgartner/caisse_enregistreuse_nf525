@@ -3,8 +3,7 @@ Une interface web de caisse enregistreuse moderne, intuitive et conforme à la n
 
 📸 Aperçu
 Interface principale :
-
-Note : Les images interface.png, keypad.png, et panier.png sont situées dans le dossier img/ du répertoire du projet (desktop/caisse_enregistreuse/img/). Assurez-vous que ces fichiers sont présents pour un affichage correct dans ce README.
+![interface](https://github.com/user-attachments/assets/57446a1e-4e3c-41d9-80b5-da9aed66f8ad)
 
 🚀 Fonctionnalités
 
